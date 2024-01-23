@@ -21,14 +21,4 @@
                et tout comme le débogage du code, la solution implique souvent une combinaison de recherche sur Google,
                espérant un peu de magie, et se demandant silencieusement si j'ai accidentellement offensé les dieux du code.
                                                                                                                                                                                                                   
-             ⣴⣶⣶⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⢸⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-            ⢰⠛⠀⠀⠹⣧⠀⠀⠀⠀⠀⠀
-             ⣿⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀
-             ⣿⢠⠀⡄⠀⣿⠀⢀⣤⣤⠀⠀⠀⠀⠀
-            ⢰⡏⠚⠀⠃⠀⣿⣴⠞⠉⢹⠀⠀⠀⠀⠀⠀⠀⠀
-   ⠀⣀⡀⠀⠀⠀⠀⢀⣸⠇⠀⠀⠀⠀⠈⠀⠀⣀⡿⠀⠀⠀⠀⠀⠀⠀
-  ⢸⣟⠛⢳⣤⣤⡶⠛⠃⠀⣠⠀⠀⠀⠚⣶⡾⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-  ⠀⠉⢷⣤⣀⣀⣀⣀⣠⡾⠻⣧⡀⠀⠀⢘⣷⣄⣀⣤⣄⠀⠀⠀⠀⠀
-       ⠈⠉⠉⠉⠉⠉⠀⠀⠘⠻⣦⣤⣈⣁⣀⣠⣾⠋⠀⠀⠀⠀⠀⠀
-                 ⠀   ⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀
+  
